@@ -12,11 +12,11 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".HomeActivity"
+            android:name="sqlfoodapp.zoowen.foodapp3.HomeActivity"
             android:label="@string/title_activity_home"
             android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity android:name="com.facebook.accountkit.ui.AccountKitActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name="sqlfoodapp.zoowen.foodapp3.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
